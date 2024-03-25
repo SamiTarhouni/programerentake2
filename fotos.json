@@ -1,0 +1,38 @@
+[
+    {
+        "image": "../assets/gojo1.jpg",
+        "name": "Gojo"
+    },
+    {
+        "image": "../assets/sakuna.jpg",
+        "name": "Sakuna"
+    },
+    {
+        "image": "../assets/itadori.jpg",
+        "name": "itadori"
+    },
+    {
+        "image": "../assets/megumi.jpg",
+        "name": "megumi"
+    },
+    {
+        "image": "../assets/mahito.jpg",
+        "name": "Mahito"
+    },
+    {
+        "image": "../assets/nanami.jpg",
+        "name": "Nanami"
+    },
+    {
+        "image": "../assets/toji.jpg",
+        "name": "toji"
+    },
+    {
+        "image": "../assets/yuta.jpg",
+        "name": "yuta"
+    },
+    {
+        "image": "../assets/kenjaku.jpg",
+        "name": "kenjaku"
+    }
+]
